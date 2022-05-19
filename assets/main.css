@@ -1,0 +1,17 @@
+#carouselExampleIndicators{
+    width:80%;
+    margin: auto;
+}
+.backportofolio{
+    background-color:#20374c;
+    height: 600px;
+}
+.backSkills{
+    height: 450px;
+}
+.cardContent{
+    margin-left: 12% !important;
+}
+.formBackground{
+    background-color:#20374c;
+}
