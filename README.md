@@ -1,4 +1,4 @@
-# Color LS
+# Curriculum Vitae
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
